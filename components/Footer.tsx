@@ -83,7 +83,7 @@ export default function Footer() {
           >
             {/* Huge Stroke Text */}
             <h3 className="text-5xl md:text-7xl lg:text-[6rem] font-display font-black uppercase tracking-tighter transition-all duration-500 text-transparent [-webkit-text-stroke:1px_rgba(255,255,255,0.15)] group-hover/kashish:[-webkit-text-stroke:0px] group-hover/kashish:text-purple-500 group-hover/kashish:drop-shadow-[0_0_30px_rgba(168,85,247,0.5)] z-10 text-center md:text-left w-full md:w-auto">
-              Kashish <br className="hidden md:block lg:hidden" /> Vasisth
+              Kashish <br className="hidden md:block lg:hidden" /> Vashistha 
             </h3>
 
             {/* Hidden Floating Socials */}
