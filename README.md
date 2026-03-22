@@ -1,1 +1,1 @@
-# Go2X
+# go2x-lite
